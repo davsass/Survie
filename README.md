@@ -4,7 +4,5 @@ help <br>
 ddd <br>
 dddd <br>
 <br>
-oklm <br>
-<br>
-bxdgbbdgsfbg <br>
+oklm bxdgbbdgsfbg <br>
 
